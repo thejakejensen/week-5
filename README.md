@@ -15,14 +15,31 @@ _this application will take a users age and determine how many years old they wo
 * _open in chrome browser_
 
 ## Specs
-|spec|input|output|
-|----|-----|------|
+_only takes numbers as input for age_
+
+_Converts user age into_
+*_age on Mercury_
+*_age on Venus_
+*_age on Jupiter_
+*_age on Mars_
+
+|spec|input|output Mars|output Venus|output Jupiter|output Mercury|
+|----|-----|-----------|------------|--------------|--------------|
+|age|15|28|9|177|3|
+
+_Calculates how much time the user has left to live, based on Continental Life Expectancy_
+_Sample input ( Residence and Age in Earth Years)/output:_
+
+| Continental Residence| Age (in Earth years)| Time Left (Earth)| Time Left (Mars) | Time Left (Venus) | Time Left (Jupiter) | Time Left (Mercury)
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| North America | 15 | 64 | 120 | 39 |
+| Europe |
 
 
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_no known bugs_
 
 ## Support and contact details
 
