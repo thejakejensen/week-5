@@ -25,15 +25,15 @@ _Converts user age into_
 
 |spec|input|output Mars|output Venus|output Jupiter|output Mercury|
 |----|-----|-----------|------------|--------------|--------------|
-|age|15|28|9|177|3|
+|age|15|7|24|1|62|
 
 _Calculates how much time the user has left to live, based on Continental Life Expectancy_
 _Sample input ( Residence and Age in Earth Years)/output:_
 
 | Continental Residence| Age (in Earth years)| Time Left (Earth)| Time Left (Mars) | Time Left (Venus) | Time Left (Jupiter) | Time Left (Mercury)
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| North America | 15 | 64 | 120 | 39 |
-| Europe |
+| North America | 15 | 64 | 34 | 103 | 5 | 266 |
+| Europe | 15 | 66 | 35 | 106 | 5 | 275 |
 
 
 
