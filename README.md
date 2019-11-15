@@ -1,22 +1,24 @@
 # _galacticCalculator_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _a calculator to determine the age of a user on another planet, 11-15-19_
 
-#### By _**{List of contributors}**_
+#### By _**Jacob Jensen**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_this application will take a users age and determine how many years old they would be on another planet like mercury or Venus_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _clone repository through GitHub_
+* _download necessary packages
+* _open in chrome browser_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+## Specs
+|spec|input|output|
+|----|-----|------|
+
+
 
 ## Known Bugs
 
